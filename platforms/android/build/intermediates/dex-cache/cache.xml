@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pranab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.7.5/b3ae78e05ff9fdb1788db2056b583281ef684277/okhttp-urlconnection-2.7.5.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b3ae78e05ff9fdb1788db2056b583281ef684277">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.7.5_c8df9a7175f41705df742fc5e703c3e8eb846897.jar" />
+    </item>
+    <item
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/libs/ibmmobilefirstplatformfoundation.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="952ba6c8cc8d0eab6610c7cb9fdaf1b5630c24e5">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/pre-dexed/debug/ibmmobilefirstplatformfoundation_e51827c6ec48cc04a9f4a731ab92305af11da9c0.jar" />
+    </item>
+    <item
+        jar="/Users/pranab/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/pre-dexed/debug/okio-1.6.0_7296b86fb151ca27e40de7d174e7c81b10004d81.jar" />
+    </item>
+    <item
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3a3ac807df8c42bef3a2a24c83252ab8bf08f5c6">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_c67d8f704b82c1e344fd2058be9804ba482433d1.jar" />
+    </item>
+    <item
+        jar="/Users/pranab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/pre-dexed/debug/okhttp-2.7.5_f9858395fbc2405fe1dd47473e08292b0356f545.jar" />
+    </item>
+
+</items>

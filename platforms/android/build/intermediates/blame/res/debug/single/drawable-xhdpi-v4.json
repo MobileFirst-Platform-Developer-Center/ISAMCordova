@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash.9.png",
+        "source": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/drawable-xhdpi/splash.9.png"
+    },
+    {
+        "merged": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/screen.png",
+        "source": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/drawable-xhdpi/screen.png"
+    }
+]

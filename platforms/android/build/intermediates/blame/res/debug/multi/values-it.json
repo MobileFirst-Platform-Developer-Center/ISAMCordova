@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/build/intermediates/res/merged/debug/values-it/values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 42,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 40,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 40,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 132,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 132,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 126,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 126,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 40,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 43,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 43,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 79,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 79,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 47,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 47,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 58,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 58,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 62,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 62,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 734,
+                    "endColumn": 152,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 152,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 216,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMCordova/platforms/android/res/values-it/mfp-strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 216,
+                        "endOffset": 1099
+                    }
+                }
+            }
+        ]
+    }
+]
