@@ -1,1 +1,0 @@
-var WL_CHECKSUM = {"checksum":2957144045,"date":1476673084686,"machine":"Pranabs-MBP"}
