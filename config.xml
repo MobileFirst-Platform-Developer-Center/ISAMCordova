@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<<<<<<< HEAD
 <widget id="com.sample.IsamCordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:mfp="http://www.ibm.com/mobilefirst/cordova-plugin-mfp">
     <name>IsamCordova</name>
     <description>
@@ -8,17 +7,6 @@
     <author email="developer@yourcompany.com" href="https://yourcompany.com">
         Your Company Team
     </author>
-=======
-<widget id="com.ibm.mfp8.hybrid" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:mfp="http://www.ibm.com/mobilefirst/cordova-plugin-mfp">
-    <name>ISAMCordova</name>
-    <description>
-		A sample Apache Cordova application that responds to the deviceready
-		event.
-	</description>
-    <author email="developer@yourcompany.com" href="https://yourcompany.com">
-		Your Company Team
-	</author>
->>>>>>> f81c1453a16f5e969c8d902608426e2720b09633
     <content src="index.html" />
     <plugin name="cordova-plugin-mfp" spec="~8.0" />
     <plugin name="cordova-plugin-splashscreen" spec="~3" />
@@ -102,13 +90,8 @@
         <splash height="360" src="res/screen/windows/Wide310x150Logo.scale-240.png" width="744" />
     </platform>
     <mfp:android>
-<<<<<<< HEAD
         <mfp:sdkChecksum>3937717781</mfp:sdkChecksum>
         <mfp:appChecksum>0</mfp:appChecksum>
-=======
-        <mfp:sdkChecksum>1638037605</mfp:sdkChecksum>
-        <mfp:appChecksum>2957144045</mfp:appChecksum>
->>>>>>> f81c1453a16f5e969c8d902608426e2720b09633
         <mfp:security>
             <mfp:testWebResourcesChecksum enabled="false" ignoreFileExtensions="png, jpg, jpeg, gif, mp4, mp3" />
         </mfp:security>
@@ -141,15 +124,9 @@
         </mfp:windows10>
         <mfp:appChecksum>0</mfp:appChecksum>
     </mfp:windows>
-<<<<<<< HEAD
     <mfp:platformVersion>8.0.0.00-20161014-1546</mfp:platformVersion>
     <mfp:clientCustomInit enabled="false" />
     <mfp:server runtime="mfp" url="http://10.150.254.250:80" />
-=======
-    <mfp:platformVersion>8.0.0.00-20160803-1114</mfp:platformVersion>
-    <mfp:clientCustomInit enabled="false" />
-    <mfp:server runtime="mfp" url="http://10.150.27.198:80" />
->>>>>>> f81c1453a16f5e969c8d902608426e2720b09633
     <mfp:directUpdateAuthenticityPublicKey />
     <mfp:languagePreferences>en</mfp:languagePreferences>
 </widget>
