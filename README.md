@@ -25,16 +25,14 @@ The ResourceAdapter adapter can be found in https://github.com/MobileFirst-Platf
 ### License
 Copyright 2016 IBM Corp.
 
-This information contains sample application programs in source language, which illustrate
-programming techniques on various operating platforms. You may copy, modify, and distribute these
-sample programs in any form without payment to IBM, for the purposes of developing, using,
-marketing or distributing application programs conforming to the application programming interface for
-the operating platform for which the sample programs are written. These examples have not been
-thoroughly tested under all conditions. IBM, therefore, cannot guarantee or imply reliability,
-serviceability, or function of these programs. You may copy, modify, and distribute these sample
-programs in any form without payment to IBM for the purposes of developing, using, marketing, or
-distributing application programs conforming to IBM's application programming interfaces.
-Each copy or any portion of these sample programs or any derivative work, must include a copyright
-notice as follows:
-© IBM 2016. Portions of this code are derived from IBM Corp. Sample Programs. ©Copyright IBM
-Corp 2016. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
