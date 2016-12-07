@@ -4,8 +4,8 @@ IBM Mobile First Platform Foundation
 ## ISAMCordova
 A sample application demonstrating ISAM LTPA functionality.
 
-### Blog post
-[http://ibm.biz/mobilefirstdatapower](http://ibm.biz/mobilefirstdatapower)
+### Tutorial
+[http://ibm.biz/mobilefirstisam](http://ibm.biz/mobilefirstisam)
 
 ### Usage
 1. Use either Maven, MobileFirst CLI or your IDE of choice to [build and deploy the available `ResourceAdapter` adapter](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/adapters/creating-adapters/).
